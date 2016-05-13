@@ -1,0 +1,19 @@
+{
+  "name": "module-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Samantha996/Module-Test.git"
+  },
+  "author": "Samantha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samantha996/Module-Test/issues"
+  },
+  "homepage": "https://github.com/Samantha996/Module-Test"
+}
